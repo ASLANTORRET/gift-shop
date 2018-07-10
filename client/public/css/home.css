@@ -1,0 +1,19 @@
+.home_container {
+  position: absolute;
+  margin: 0 auto;
+  width: 100%;
+  top: 5%;
+  bottom: 5%;
+}
+
+.empire_clear_fix {
+  margin: 5% 5%;
+}
+
+#empire_logo {
+  max-width: 400px;
+  max-height: 400px;
+  display: block; 
+  margin: 0 auto;
+}
+

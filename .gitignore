@@ -1,0 +1,7 @@
+client/node_modules
+server/node_modules
+node_modules
+client/src/client.js
+server/.en
+server/server.js
+server/yarn.lock

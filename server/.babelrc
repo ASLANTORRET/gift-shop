@@ -1,0 +1,11 @@
+{
+  "passPerPreset": true,
+  "presets": [
+    "es2015",
+    "stage-0"
+  ],
+  "plugins": [
+    "babel-root-import",
+    "transform-object-rest-spread"
+  ]
+}
