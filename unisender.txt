@@ -1,1 +1,0 @@
-https://api.unisender.com/ru/api/sendSms?format=json&api_key=5mpd8zg7f7y358g5twndq9yoqjrzwp1mpgmocquy&phone=77078307490&sender=Empire&text=Hello,+World!
