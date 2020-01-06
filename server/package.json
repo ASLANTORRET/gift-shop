@@ -24,7 +24,7 @@
     "graphql-subscriptions": "^0.4.4",
     "gridfs-stream": "^1.1.1",
     "he": "^1.1.1",
-    "mongoose": "^4.11.12",
+    "mongoose": "^5.7.5",
     "node-schedule": "^1.2.5",
     "nodemon": "^1.12.1",
     "request": "^2.82.0",
