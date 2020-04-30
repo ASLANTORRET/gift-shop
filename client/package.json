@@ -12,7 +12,7 @@
     "ejs": "^2.5.7",
     "flexslider": "^2.6.4",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "jquery.scrollbar": "^0.2.11",
     "lodash": "^4.17.4",
     "magnific-popup": "^1.1.0",
