@@ -6,7 +6,7 @@
     "@fancyapps/fancybox": "^3.1.20",
     "animate": "^1.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "bxslider": "^4.2.13",
     "dotenv": "^4.0.0",
     "ejs": "^2.5.7",
